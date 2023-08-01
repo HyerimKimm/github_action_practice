@@ -28,4 +28,5 @@ jobs:
             --region ap-northeast-2 \
             build s3://fe-36-hyerimkimm-s3 \
             --delete
-        working-directory: ./my-agora-states-client-react
+        working-directory: ./my-agora-states-client-react 
+        # ㅁㄴㅇㄹ
